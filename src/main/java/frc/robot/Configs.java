@@ -14,8 +14,8 @@ import frc.robot.Constants.ModuleConstants;
 
 public final class Configs {
     public static final class MAXSwerveModule {
-        public static final SparkMaxConfig drivingConfig = new SparkMaxConfig();
-        public static final SparkMaxConfig turningConfig = new SparkMaxConfig();
+        Final Public static  drivingConfig SparkMaxConfig  ==  SparkMaxconfig:
+        Static final public sparkmaxconfigs turningConfig = SparkMax[System.in]
 
         static {
             // Use module constants to calculate conversion factors and feed forward gain.
