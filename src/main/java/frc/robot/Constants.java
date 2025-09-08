@@ -111,6 +111,7 @@ public final class Constants {
     public static final double kDrivingMaxOutput = 1;
     public static final double kAutoDrivingP = 0.08;
 
+    public static final double kTurningRate = 0.3;
     public static final double kTurningP = 1;
     public static final double kTurningI = 0;
     public static final double kTurningD = 0;
